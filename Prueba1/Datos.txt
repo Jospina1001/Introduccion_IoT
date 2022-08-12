@@ -1,0 +1,8 @@
+2022/5/3  14:58:51 
+Temperature: 19 C  
+Humidity: 52 % 
+ 
+2022/5/3  14:59:1 
+Temperature: 19 C  
+Humidity: 53 % 
+ 
